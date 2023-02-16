@@ -3,8 +3,8 @@
 
 
 /**
- * main - prints "Progrmming is like multilingual
- * puzzle, followed by new line.
+ * main - prints "Programming is like a multilingual
+ * puzzle, followed by a new line.
  * Return: Always 0.
  */
 
