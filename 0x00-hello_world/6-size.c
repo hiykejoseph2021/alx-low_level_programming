@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -prints "central part of code and prints size of datatypes
+ * main -Prints "central part of code and prints size of datatypes
  *
  * Return: Always 0.
  */
