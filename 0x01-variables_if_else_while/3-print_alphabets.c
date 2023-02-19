@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * mainn - Entry point
- *
+ * Description: prints alphabet in lowercase then uppercase
  * Return: Always 0 (success)
  */
 
