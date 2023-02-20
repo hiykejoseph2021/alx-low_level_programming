@@ -12,7 +12,7 @@ int main(void)
 
 	for (c = 'o'; c <= '9'; c++)
 	{
-		for (i ='o'; i <= '9'; i++)
+		for (i = 'o'; i <= '9'; i++)
 		{
 			if (c < i)
 			{
