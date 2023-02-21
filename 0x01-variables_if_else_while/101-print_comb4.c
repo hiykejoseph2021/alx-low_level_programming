@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main -Entry point
- * Description: prints 4 combination of numbers
+ * Description: prints 3  combination of numbers
  * Return: Always 0 (success)
  */
 
@@ -24,7 +24,7 @@ int main(void)
 
 	if (c != '7')
 	{
-	putchar(';');
+	putchar(',');
 	putchar(' ');
 	}
 	}
